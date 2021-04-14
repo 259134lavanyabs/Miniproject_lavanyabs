@@ -14,6 +14,14 @@
 * Reduction Of Human Labour, Papers and Workload
     The cost incurred from employing staff to manage the activities of a institution is an additional cost that shouldn't be if you decide to make use of this new technology. With this student management system, your number of staffs, excessive buying of writing materials will be minimal and functionality will improve.
 
+# Cost and Features
+| Time          | Feature       | Cost |
+| -------------|:-------------:| -----:|
+| 1995         | Paper based management system | 800K INR |
+| 1998         | Computer based management system     |   500K INR |
+| 2005         | computer based with some features      |   300K INR |
+| present      | Application software      |    100K INR |
+
 
 
 
