@@ -27,8 +27,7 @@
     * Admin
     * Student
     * Database
-![Description](![image](https://user-images.githubusercontent.com/81295980/114737181-61523500-9d64-11eb-964a-598acce08619.png)
-)
+(![image](https://user-images.githubusercontent.com/81295980/114737181-61523500-9d64-11eb-964a-598acce08619.png)
 
 
 
