@@ -4,7 +4,14 @@
 
 This simple mini project for Student Record System creates an external file to store the user’s data permanently to perform file handling operations. This is the features of Student Record System, which is you can add student information, search student information, update student information and can delete student information.
 
-| Syntax | Description |
+
+#Folder Structure
+
+| Folder | Description |
 | ----------- | ----------- |
-| Header | Title |
-| Paragraph | Text |
+| 1_Requirements| Title |
+| 2_Design | Text |
+| 3_Implementation| Title |
+| 4_Testplan| Text |
+
+
