@@ -28,7 +28,8 @@
     * Student
     * Database
     
-    ![Image](http://3.bp.blogspot.com/-mkmkBLEtX0o/UbXDbu22s9I/AAAAAAAAADU/iCCyNroDcpU/s1600/New+Picture.png)
+    ![image](https://user-images.githubusercontent.com/81295980/114734674-10414180-9d62-11eb-82bc-41096bda117f.png)
+
 
 
 
