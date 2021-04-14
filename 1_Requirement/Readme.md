@@ -22,6 +22,14 @@
 | 2005         | computer based with some features      |   300K INR |
 | present      | Application software      |    100K INR |
 
+# Defining Our System
+  ## Main three component
+    * Admin
+    * Student
+    * Database
+    
+    ![Alt Text](http://3.bp.blogspot.com/-mkmkBLEtX0o/UbXDbu22s9I/AAAAAAAAADU/iCCyNroDcpU/s1600/New+Picture.png)
+
 
 
 
