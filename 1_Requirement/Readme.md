@@ -28,7 +28,7 @@
     * Student
     * Database
     
-    ![Alt Text](http://3.bp.blogspot.com/-mkmkBLEtX0o/UbXDbu22s9I/AAAAAAAAADU/iCCyNroDcpU/s1600/New+Picture.png)
+    ![Image](http://3.bp.blogspot.com/-mkmkBLEtX0o/UbXDbu22s9I/AAAAAAAAADU/iCCyNroDcpU/s1600/New+Picture.png)
 
 
 
