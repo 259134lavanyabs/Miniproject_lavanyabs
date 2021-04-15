@@ -28,8 +28,15 @@
    * Student
    * Database
    
-(![image](https://user-images.githubusercontent.com/81295980/114737181-61523500-9d64-11eb-964a-598acce08619.png)
+![image](https://user-images.githubusercontent.com/81295980/114737181-61523500-9d64-11eb-964a-598acce08619.png)
 
+Student Record Management System has the following functions:
+1.Add the student details
+2.View the student details
+3.Search the student details
+4.Delete the student details
+
+# SWOT ANALYSIS
 
 
 
