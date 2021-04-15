@@ -43,49 +43,48 @@ Student Record Management System has the following functions:
 
 ## Who:
 
-* Small scale to large scale educational institutes.
+* Many educational institutes.
 
-* Various academies of different field.
+* Academies of different field.
 
 ## What:
 
-* Manual Paper work becomes very labourous and time consuming task. For students in strength of 1000s.
+* It will help in saving time and effect by reducing pen and paper work.
 
 ## When:
 
-* The problem has been around for decades but it was the only option in absence of computers and automated systems but advancement in technologies and its availability at most places has reduced the problem to greater extent.
+* The problem has solved by replacement of computers and automated system with advanced technologies.
 
 ## Where:
 
-* The problem is expected to be present across the country.
+* Expected to present everywhere.
 
 ## How:
 
-* The problem was known because of the inconvinience it  caused to staff, management and other people related to it. If not solved, it can cause a large technology gap which will eventually cause a delay in coping up with the new emerging automated systems along with other existing issues of the manual systems. 
-
+* Student record management system is designed to help manage the daily school activities of recording and maintaining by automating it. 
 
 # Detail requirements
 ## High Level Requirements:
 
  ID | Description | Status (Implemented/Future)
 ------ |-----------| --------------
-HR01 | The admin should be able to add new student records| Technical-Implemented
-HR02 | The admin should be able to update the student records| Technical-Implemented
-HR03 | The admin should be able to delete the student records| Technical-Implemented
-HR04 | The admin should be able to read the student records| Technical-Implemented
-HR05 | The admin should be able to save the student record to file| Technical-Implemented
-HR06 | The admin shoould be able to read student data from the file| Technical-Implemented
-HR07 | There should be no data loss in case of system failure | Future
-HR08 |There should be no data breach or leakage and the data should be safe| Future
+HR01 | Admin can add new student records| Technical-Implemented
+HR02 | admin can view the student records| Technical-Implemented
+HR03 | Admin can search the student records| Technical-Implemented
+HR04 | Admin can Delete the student records| Technical-Implemented
+HR04 | Admin can Update the student records| Technical-Implemented
+
+
 
 ##  Low level Requirements:
 ID | Description | HLR-ID | Status
 ------|-------------|--------|--------
-LR01 |New Records shall be added by providing all the asked information and the roll no. should be unique or else student record should not be accepted|HR01|Implemented
-LR02 |If user searches for an invalid Roll no. ,"no record found!" message should be displayed|HR04|Implemented
-LR03| To modify a record, user needs to search by name, if no record found, print the message"no record found" else if modification is successful then print "modification successful"|HR02|Implemented
-LR04|User needs to search by name for the student to delete the record. If no record is found then display the message "no record found"|HR03|Implemented
-LR05| when the system  is turned on, all the options should be displayed on screen(add,modify,delete,search,exit). If incorrect input is given by user then, print the message "selected option unavailable"| HRxx|Implemented
+LR01 |New Records shall be added by providing all the asked information and the roll no. Here roll number should be unique |HR01|Implemented
+LR02 |Admin can veiw all the student record by selecting the choices|HR02|Implemented
+LR03 |Admin can search student by giving correct roll number else it displays 'no record found' |HR03|Implemented
+LR04| Admin can delete the particular student record by using valid roll number|HR04|Implemented
+LR05|Admin can upadte the student information like name, roll number, father name, date of birth, place|HR05|Implemented
+LR06| All the operation can performed only when entering valid username and password else it displays 'invalid username and password'| HRxx|Implemented
 
 
 
