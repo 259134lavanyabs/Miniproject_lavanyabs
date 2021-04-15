@@ -5,3 +5,5 @@
 
 # Activity Diagram
 
+![workflow](https://user-images.githubusercontent.com/81295980/114887614-3d572800-9e26-11eb-9057-59f4e87ccd20.png)
+
