@@ -37,7 +37,7 @@ Student Record Management System has the following functions:
 * Delete the student details
 
 # SWOT ANALYSIS
-![swot](https://user-images.githubusercontent.com/81295980/114827967-f1d15980-9de6-11eb-9c06-682de209c7a7.png)
+![Screenshot (49)](https://user-images.githubusercontent.com/81295980/114829136-54772500-9de8-11eb-9412-57de97c03bc7.png)
 
 
 
