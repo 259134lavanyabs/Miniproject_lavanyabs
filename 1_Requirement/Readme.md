@@ -61,7 +61,7 @@ Student Record Management System has the following functions:
 
 ## How:
 
-* Student record management system is designed to help manage the daily school activities of recording and maintaining by automating it. 
+* Student record management system is designed to help manage the daily institutional activities of recording and maintaining by automating it. 
 
 # Detail requirements
 ## High Level Requirements:
