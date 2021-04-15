@@ -39,6 +39,54 @@ Student Record Management System has the following functions:
 # SWOT ANALYSIS
 ![Screenshot (49)](https://user-images.githubusercontent.com/81295980/114829136-54772500-9de8-11eb-9412-57de97c03bc7.png)
 
+# 4W&#39;s and 1&#39;H
+
+## Who:
+
+* Small scale to large scale educational institutes.
+
+* Various academies of different field.
+
+## What:
+
+* Manual Paper work becomes very labourous and time consuming task. For students in strength of 1000s.
+
+## When:
+
+* The problem has been around for decades but it was the only option in absence of computers and automated systems but advancement in technologies and its availability at most places has reduced the problem to greater extent.
+
+## Where:
+
+* The problem is expected to be present across the country.
+
+## How:
+
+* The problem was known because of the inconvinience it  caused to staff, management and other people related to it. If not solved, it can cause a large technology gap which will eventually cause a delay in coping up with the new emerging automated systems along with other existing issues of the manual systems. 
+
+
+# Detail requirements
+## High Level Requirements:
+
+ ID | Description | Status (Implemented/Future)
+------ |-----------| --------------
+HR01 | The admin should be able to add new student records| Technical-Implemented
+HR02 | The admin should be able to update the student records| Technical-Implemented
+HR03 | The admin should be able to delete the student records| Technical-Implemented
+HR04 | The admin should be able to read the student records| Technical-Implemented
+HR05 | The admin should be able to save the student record to file| Technical-Implemented
+HR06 | The admin shoould be able to read student data from the file| Technical-Implemented
+HR07 | There should be no data loss in case of system failure | Future
+HR08 |There should be no data breach or leakage and the data should be safe| Future
+
+##  Low level Requirements:
+ID | Description | HLR-ID | Status
+------|-------------|--------|--------
+LR01 |New Records shall be added by providing all the asked information and the roll no. should be unique or else student record should not be accepted|HR01|Implemented
+LR02 |If user searches for an invalid Roll no. ,"no record found!" message should be displayed|HR04|Implemented
+LR03| To modify a record, user needs to search by name, if no record found, print the message"no record found" else if modification is successful then print "modification successful"|HR02|Implemented
+LR04|User needs to search by name for the student to delete the record. If no record is found then display the message "no record found"|HR03|Implemented
+LR05| when the system  is turned on, all the options should be displayed on screen(add,modify,delete,search,exit). If incorrect input is given by user then, print the message "selected option unavailable"| HRxx|Implemented
+
 
 
 
