@@ -15,6 +15,10 @@
 */
 #include <stdio.h>
 
+#define MAX_FATHER_NAME 50
+#define MAX_STUDENT_NAME 50
+#define MAX_SUDENT_ADDRESS 300
+
 typedef struct
 {
   unsigned int stu_id;
