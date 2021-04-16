@@ -20,9 +20,9 @@ Build | Cpp check | code quality | [Git Inspector](using github.io option)
 
 ## Contributors List and Summary
 
-PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Cases|Test Case Pass
--------|---------|----------------|----------------|---------------|-------------|--------------
-259134 | Lavanya B S  | Add, View, Search , Delete , Update Student Record    | 2    | 2 | 5 | 5     
+PS No. |  Name   |    Features    |No Test Cases|Test Case Pass|
+-------|---------|----------------|----------------|---------------|
+259134 | Lavanya B S  | Add, View, Search , Update , Delete Student Record    | 4 | 2|    
    
 
 ## Challenges Faced and How Was It Overcome
@@ -33,7 +33,7 @@ PS No. |  Name   |    Features    | Issuess Raised |Issues Resolved|No Test Case
 4. ...
 
 ## Learning Resources
-1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatshee
+1. [markdownCheatsheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet/)
 2. [markdownBasics](https://guides.github.com/features/mastering-markdown/)
 3. [git inspector](https://github.com/ejwa/gitinspector.git)
 4. [github workflow](https://docs.github.com/en/actions/learn-github-action)
