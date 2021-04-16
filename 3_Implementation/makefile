@@ -6,20 +6,20 @@ BUILD = build
 
 # All source code files
 SRC = main.c\
-	src/add.c\
-	src/delete.c\
-	src/execute.c\
-	src/print.c\
-	src/eligible.c\
+	src/addstudent.c\
+	src/deletestudent.c\
+	src/searchstudent.c\
+	src/updatepassword.c\
+	src/viewstudent.c\
 
 # All test source files
-TEST_SRC = main.c\
-	src/add.c\
-	src/delete.c\
-	src/execute.c\
-	src/print.c\
-	src/eligible.c\
-test/main.c\
+TEST_SRC = testmain.c\
+	src/addstudent.c\
+	src/deletestudent.c\
+	src/searchstudent.c\
+	src/updatepassword.c\
+	src/viewstudent.c\
+test/testmain.c\
 unity/unity.c\
 
 TEST_OUTPUT = Test_$(PROJECT_NAME).out
