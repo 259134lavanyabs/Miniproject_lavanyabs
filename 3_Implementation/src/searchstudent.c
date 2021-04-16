@@ -1,8 +1,8 @@
 void searchstudent()
 {
   int found=0;
-  int studentid=0;
-  s_studentinfo addstudentinfoindatabase= {0};
+  int stuid=0;
+  s_stuinfo addinfo= {0};
   FILE *fp=NULL;
   fp =fopen(FILE_NAME, "rb");
   if(fp==NULL)
@@ -19,10 +19,10 @@ if(fseek(fp.FILE_HEADER_SIZE,SEEK_SET) !=0)
   
 printf("enter the student id to search");
 fflush(stdin);
-  scanf("%u", &studentid);
-  while(fread(&addstudentindatabase, sizeof(addstudentinfoindatabase),1,fp))
+  scanf("%u", &stuid);
+  while(fread(&addinfo, sizeof(addinfo),1,fp))
   {
-    if(addstudentinfoindatabase.studentid == studentid)
+    if(addinfo.stuid == stuid)
     {
       found=1;
       break;
@@ -30,11 +30,11 @@ fflush(stdin);
   }
   if(found)
   {
-    printf("studentid=%d",addstudentinfoindatabase.studentid);
-    printf("studentname=%d",addstudentinfoindatabase.studentid);
-    printf("fathername=%d",addstudentinfoindatabase.studentid);
-    printf("studentaddress=%d",addstudentinfoindatabase.studentid);
-    printf("studentadmissiondate=%d/%d/%d",addstudentinfoindatabase.studentjoiningdate.dd,addstudentinfoindatabase.studentjoiningdate.mm,addstudentinfoindatabase.studentjoiningdate.yyyy);
+    printf("studentid=%d",addinfo.stuid);
+    printf("studentname=%d",addinfo.stuid);
+    printf("fathername=%d",addinfo.stuid);
+    printf("studentaddress=%d",addinfo.stuid);
+    printf("studentadmissiondate=%d/%d/%d",addinfo.studentjd.dd,addinfo.studentjd.mm,addinfo.studentjd.yyyy);
   }
   else
   {
