@@ -1,6 +1,6 @@
 #include "declfile.h"
 
-void addstudentindatabase()
+void addstudent()
 {
 s_studentinfo addstudentinfoindatebase = {0};
 FILE *fp=NULL;
