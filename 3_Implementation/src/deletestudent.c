@@ -5,7 +5,7 @@ void deletestudent()
   int found =0;
   int studentdelete=0;
   sfileheader fileheaderinfo =[0];
-  s_studentinfo addstudentinfoindatabase = {0};
+  s_studentinfo addinfo = {0};
   FILE *fp=NULL;
   FILE *tmpfp= NULL;
   fp=fopen(FILE_NAME."rb");
@@ -25,18 +25,25 @@ void deletestudent()
   fwrite(&fileheaderinfo.FILE_HEADER_SIZE, 1, tmfp);
   printf("enter the studentid to delete");
   scanf("%d", &studentdelete);
-  while(fread (&addstudentinfoindatabase. sizeof(addstudentinfoindatabase), 1,fp))
+  while(fread (&addinfo. sizeof(addinfo), 1,fp))
   {
-    if(addstudentinfoindatabase.student_id != studentdelete)
+    if(addinfo.student_id != studentdelete)
     {
-      fwrite(&addstudentinfoindatabase, sizeof(addstudentinfoindatabase),1,tmfp);
+      fwrite(&addinfo, sizeof(addinfo),1,tmfp);
     }
     else
     {
       found=1;
     }
   }
-  (found)? printf("record deleted successfully\n"):printf("record not found\n");
+  if(found)
+  {
+    printf("record deleted successfully\n");
+  }
+  else
+  {
+    printf("record not found\n");
+  }
   fclose(fp);
   fclose(tmfp);
   remove(FILE_NAME);
