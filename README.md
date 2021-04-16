@@ -5,10 +5,10 @@
 Student Record Management System creates an external file to store the user’s data permanently to perform file handling operations. This is the features of Student Record System, which can add student information, search student information, update student information and can delete student information.
 
 
-Build | Code Quality | cppcheck | [Git Inspector](using github.io option)
+Build | Cpp check | code quality | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI](https://github.com/259819/LnT_MiniProject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/259819/LnT_MiniProject/actions/workflows/c-cpp.yml)|
-[![cppcheck-action](https://github.com/259819/LnT_MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/259819/LnT_MiniProject/actions/workflows/cppcheck.yml)|
+[![C/C++ CI](https://github.com/259819/LnT_MiniProject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/259819/LnT_MiniProject/actions/workflows/c-cpp.yml)|[![cppcheck-action](https://github.com/259819/LnT_MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/259819/LnT_MiniProject/actions/workflows/cppcheck.yml)
+
 
 
 # Folder Structure
