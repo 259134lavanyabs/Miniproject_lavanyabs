@@ -13,5 +13,44 @@
 * @brief function to add the student information
 *
 */
+#include <stdio.h>
+
+typedef struct
+{
+  unsigned int stu_id;
+  char fathname[MAX_FATHER_NAME];
+  char stuname[MAX_STUDENT_NAME];
+  char studaddr[MAX_STUDENT_ADDRESS];
+  Date studentJoiningDate;
+}s_studentInfo;
+
+/**
+* @brief the function to add the student
+*
+*/
+void addstudentindatabase();
+/**
+* @brief the function search the student
+*
+*/
+void searchstudent();
+/**
+* @brief function to view the list of the student
+*
+*/
+void viewstudent();
+/**
+* @brief function to delete the student
+*
+*/
+void deletestudent();
+/**
+* @brief function to update the student record
+*
+*/
+void updatestudent();
+
+#endif /** DECLFILE**/
+
 
 
