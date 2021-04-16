@@ -9,10 +9,7 @@ Build | Cpp check | unit testing |
 ------|----------|-------|---------
 [![C/C++ CI](https://img.shields.io/badge/c%2Fc%2B%2B%20CI-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/c-cpp.yml)|[![cppcheck-action](https://img.shields.io/badge/cppcheck--action-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/cppcheck.yml)|[![unit testing](https://img.shields.io/badge/unit%20testing-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/unit-test.yml)|
 
-Build |cppcheck-Static analysis | unit testing
-------|----------|-------|--------------
-[![C/C++ CI](https://img.shields.io/badge/c%2Fc%2B%2B%20CI-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/c-cpp.yml)[![cppcheck-action](https://img.shields.io/badge/cppcheck--action-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/cppcheck.yml)|[![Unit testing](https://img.shields.io/badge/unit%20testing-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/unit-test.yml)
-
+[![C/C++ CI](https://img.shields.io/badge/c%2Fc%2B%2B%20CI-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/c-cpp.yml)|[![Codacy Badge](https://app.codacy.com/project/badge/Grade/0ae823626e6442828c84ad084fdab090)](https://www.codacy.com/gh/259819/LnT_MiniProject/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=259819/LnT_MiniProject&amp;utm_campaign=Badge_Grade)|[![cppcheck-action](https://github.com/259819/LnT_MiniProject/actions/workflows/cppcheck.yml/badge.svg)](https://github.com/259819/LnT_MiniProject/actions/workflows/cppcheck.yml)|[![Unit testing](https://github.com/259819/LnT_MiniProject/actions/workflows/uni-test.yml/badge.svg)](https://github.com/259819/LnT_MiniProject/actions/workflows/uni-test.yml)
 # Folder Structure
 
 | Folder | Description |
