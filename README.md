@@ -5,9 +5,9 @@
 Student Record Management System creates an external file to store the user’s data permanently to perform file handling operations. This is the features of Student Record System, which can add student information, search student information, update student information and can delete student information.
 
 
-Build | Cpp check | code quality | [Git Inspector](using github.io option)
-------|----------|-------|--------------
-[![C/C++ CI](https://img.shields.io/badge/c%2Fc%2B%2B%20CI-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/c-cpp.yml)|[![cppcheck-action](https://img.shields.io/badge/cppcheck--action-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/cppcheck.yml)
+Build | Cpp check | unit testing |
+------|----------|-------|---------
+[![C/C++ CI](https://img.shields.io/badge/c%2Fc%2B%2B%20CI-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/c-cpp.yml)|[![cppcheck-action](https://img.shields.io/badge/cppcheck--action-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/cppcheck.yml)|[![unit testing](https://img.shields.io/badge/unit%20testing-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/unit-test.yml)|
 
 # Folder Structure
 
