@@ -3,7 +3,7 @@
 void viewstudent()
 {
   int found=0;
-  s_studentinfo addstudentinfoindatabase={0};
+  s_stuinfo addinfo={0};
   FILE *fp= NULL:
   unsigned int countstudent=1;
   fp=fopen(FILE_NAME,"rb");
@@ -17,13 +17,13 @@ void viewstudent()
     printf("file  not exist");
     exit(1);
   }
-  while(fread (&addstudentinfoindatabase,sizeof(addstudentinfoindatabase),1,fp))
+  while(fread (&addinfo,sizeof(addinfo),1,fp))
   {
     printf("student count=%d",countstudent);
-    printf("student id=%u",addstudentinfoindatabase.studentid);
-    printf("student name=%s",addstudentinfoindatabase.studentname);
-    printf("father name id=%s",addstudentinfoindatabase.fathername);
-    printf("student admission date=%d %d %d",addstudentinfoindatabase.studentjoiningdate.dd,addstudentinfoindatabase.studentjoiningdate.mm,addstudentinfoindatabase.studentjoiningdate.yyyy);
+    printf("student id=%u",addinfo.stuid);
+    printf("student name=%s",addinfo.stuname);
+    printf("father name id=%s",addinfo.fathname);
+    printf("student admission date=%d %d %d",addinfo.studentjd.dd,addinfo.studentjd.mm,addinfo.studentjd.yyyy);
     found=1;
     ++countstudent;
   }
