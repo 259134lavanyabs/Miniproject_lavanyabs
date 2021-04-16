@@ -7,7 +7,7 @@ Student Record Management System creates an external file to store the user’s 
 
 Build | Cpp check | code quality | [Git Inspector](using github.io option)
 ------|----------|-------|--------------
-[![C/C++ CI](https://github.com/259819/LnT_MiniProject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/259819/LnT_MiniProject/actions/workflows/c-cpp.yml)|[![cppcheck-action](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/cppcheck.yml/badge.svg)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/cppcheck.yml)
+[![C/C++ CI](https://github.com/259819/LnT_MiniProject/actions/workflows/c-cpp.yml/badge.svg)](https://github.com/259819/LnT_MiniProject/actions/workflows/c-cpp.yml)|[![cppcheck-action](https://img.shields.io/badge/cppcheck--action-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/cppcheck.yml)
 
 # Folder Structure
 
