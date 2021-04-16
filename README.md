@@ -9,6 +9,10 @@ Build | Cpp check | unit testing |
 ------|----------|-------|---------
 [![C/C++ CI](https://img.shields.io/badge/c%2Fc%2B%2B%20CI-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/c-cpp.yml)|[![cppcheck-action](https://img.shields.io/badge/cppcheck--action-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/cppcheck.yml)|[![unit testing](https://img.shields.io/badge/unit%20testing-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/unit-test.yml)|
 
+Build |cppcheck-Static analysis | unit testing
+------|----------|-------|--------------
+[![C/C++ CI](https://img.shields.io/badge/c%2Fc%2B%2B%20CI-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/c-cpp.yml)[![cppcheck-action](https://img.shields.io/badge/cppcheck--action-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/cppcheck.yml)|[![Unit testing](https://img.shields.io/badge/unit%20testing-passing-green)](https://github.com/259134lavanyabs/Miniproject_lavanyabs/blob/main/.github/workflows/unit-test.yml)
+
 # Folder Structure
 
 | Folder | Description |
