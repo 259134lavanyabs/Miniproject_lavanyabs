@@ -25,8 +25,8 @@ typedef struct
   char fathname[MAX_FATHER_NAME];
   char stuname[MAX_STUDENT_NAME];
   char studaddr[MAX_STUDENT_ADDRESS];
-  Date studentJoiningDate;
-}s_studentInfo;
+  date studentjoiningdate;
+}s_studentinfo;
 
 /**
 * @brief the function to add the student
